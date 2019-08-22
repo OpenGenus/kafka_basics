@@ -6,6 +6,3 @@ To install kafka in windows we need to download the Binary files from Apache ope
 2. Copy the path C:/Kafka/bin/windows and add it into environment variables of your pc.
 3. You made it !!
 
-# Reference vedio:
-https://www.youtube.com/watch?v=qS4MKvGHPuM
-
